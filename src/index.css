@@ -18,14 +18,14 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background: #141414;
+  background: #e4d9d9;
 }
 
 .calculator {
   width: 300px;
   background: #fff;
   border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
   overflow: hidden;
 }
 
